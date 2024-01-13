@@ -4,8 +4,8 @@
 # Author: Gaurav Sablok
 # date: 2024-1-13
 # a scratch automator for the system as well as the administration of the genomes raw files
-# change the number as per your convineince 
-echo "genome assembly project creation and maintainance"
+# change the number as per your convenience 
+echo "genome assembly project creation and maintenance"
 read -r -p "please provide the name of the project:" project
 read -r -p "please provide the system type:" system
 read -r -p "please provide the project creation and scratch address:" scratch
